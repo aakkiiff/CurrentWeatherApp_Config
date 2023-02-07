@@ -16,4 +16,4 @@ spec:
         image: aakkiiff/current_weather_app_ui:32
 
         ports:
-        - containerPort: 8080
+        - containerPort: 3000
