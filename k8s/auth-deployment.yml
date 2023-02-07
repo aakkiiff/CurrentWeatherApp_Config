@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: auth
-        image: aakkiiff/current_weather_app_auth:33
+        image: aakkiiff/current_weather_app_auth:34
 
         ports:
         - containerPort: 8080
