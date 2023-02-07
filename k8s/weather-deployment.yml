@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: weather
-        image: aakkiiff/current_weather_app_weather:latest
+        image: aakkiiff/current_weather_app_weather:32
 
         ports:
         - containerPort: 5000
